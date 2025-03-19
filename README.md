@@ -1,7 +1,5 @@
 # Hello, I'm Kuba! :wave:
-I am new here in GitHub but I hope to be back here soon!
-
-**Keep an eye out on my profile!**
+I am new to using GitHub but please keep an eye out on any future work which I add here!
 
 <!---
 zillakuba/zillakuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
