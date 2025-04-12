@@ -1,5 +1,8 @@
 # Hello, I'm Kuba! :wave:
-Physics undegraduate interested in coding!
+I am a Physics undergraduate new to GitHub!
+
+ - Currently learning: Julia
+ - Experienced with: Python
 
 <!---
 zillakuba/zillakuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
