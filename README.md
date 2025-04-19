@@ -1,5 +1,5 @@
 # Hello, I'm Kuba! :wave:
-I am a Physics undergraduate new to GitHub!
+I am a Physics undergraduate with an interest in coding!
 
  - Currently learning: Julia
  - Experienced with: Python
