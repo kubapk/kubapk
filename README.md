@@ -1,8 +1,9 @@
 # Hello, I'm Kuba! :wave:
-I am a Physics undergraduate with an interest in coding!
+I am a Physics Masters student at the University of Manchester.
 
- - Currently learning: Julia
- - Experienced with: Python
+Coding langauges:
+ - Python (experienced)
+ - Julia (introductory)
 
 <!---
 zillakuba/zillakuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
