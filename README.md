@@ -1,8 +1,8 @@
 # Hello, I'm Kuba! :wave:
-I am a Physics Masters (MPhys) student at the University of Manchester. At the moment I am mostly coding for projects related to physics 🧑‍💻🔭
+I am a Physics Masters (MPhys) student at the University of Manchester. At the moment I mostly write code for projects related to physics 🧑‍💻🔭
 
 ### Programming Experience
-I am highly experienced in using Python, with some experience in Julia too
+I am highly experienced in using Python, with some experience in Julia too.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="45" height="45"/>
