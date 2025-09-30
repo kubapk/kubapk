@@ -1,7 +1,7 @@
 # Hello, I'm Kuba! :wave:
 I am a Physics Masters student at the University of Manchester, mostly coding for physics projects 🧑‍💻🔭
 
-**Programming Experience**
+### Programming Experience
 Programming languages I have experience in :)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="45" height="45"/>
