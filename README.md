@@ -1,5 +1,5 @@
 # Hello, I'm Kuba! :wave:
-I am a Physics Masters student at the University of Manchester, mostly coding for physics projects 🧑‍💻🔭
+I am a Physics Masters (MPhys) student at the University of Manchester. At the moment I am mostly coding for projects related to physics 🧑‍💻🔭
 
 ### Programming Experience
 I am highly experienced in using Python, with some experience in Julia too
@@ -9,10 +9,11 @@ I am highly experienced in using Python, with some experience in Julia too
 </p>
 
 ### Tools I have used
-I complete most of my code in Spyder or in Visual Studio Code (VSC)
+I write most of my code in Spyder or in Visual Studio Code (VSC). I also have written many reports in Latex.
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="spyder" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vsc" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="spyder" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vsc" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="35" height="35"/>
 </p>
 
 <!---
