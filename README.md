@@ -21,7 +21,7 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 
 </p>
 
-## Have a look at my code repository [here](https://github.com/kubapk/code-repository)
+#### Have a look at my code repository [here](https://github.com/kubapk/code-repository)
 
 <!---
 zillakuba/zillakuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
