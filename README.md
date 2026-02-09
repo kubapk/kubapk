@@ -2,19 +2,22 @@
 I am a Physics Masters (MPhys) student at the University of Manchester. At the moment I mostly write code for projects related to physics 🧑‍💻🔭
 
 ### Programming Experience
-I am highly experienced in using Python, with some experience in Julia too.
+I am highly experienced in using Python, with some experience in Julia too. I am also currently learning C++.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+          
 </p>
 
 ### Tools I have used
-I write most of my code in Spyder or in Visual Studio Code (VSC), and in a few projects I have used git bash to keep track of the code. I also have written many reports in Latex.
+I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all of my projects I use git commands to track changes, and use Latex for reprot-writing. I have also developed systems using MS Power Automate.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="spyder" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vsc" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+<img scr="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" alt="power automate" width="35" height="35"/>
 
 </p>
 
