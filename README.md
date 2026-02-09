@@ -17,7 +17,7 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vsc" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-<img scr="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" alt="power automate" width="35" height="35"/>
+<img scr="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="power automate" width="35" height="35"/>
 
 </p>
 
