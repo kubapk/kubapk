@@ -22,8 +22,9 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 </p>
 
 ### Code repository
+Use the button below to open my public repository.
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+  <a href="https://github.com/kubapk/code-repository">
     <img src="https://img.shields.io/badge/Open-Kuba's_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
