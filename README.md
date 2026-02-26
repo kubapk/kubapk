@@ -21,7 +21,11 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 
 </p>
 
-[![Open Kuba's Repository](https://img.shields.io/badge/Open-Kuba's_Repository-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+    <img src="https://img.shields.io/badge/Open-Kuba's_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 #### Have a look at my code repository [here](https://github.com/kubapk/code-repository)
 
