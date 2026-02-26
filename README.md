@@ -20,6 +20,7 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="powerautomate" width="35" height="35"/>
 
 </p>
-<button onclick="window.location.href='https://github.com/kubapk/code-repository';">View Kuba's Code Repository</button>
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 #### Have a look at my code repository [here](https://github.com/kubapk/code-repository)
 
