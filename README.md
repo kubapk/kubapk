@@ -29,5 +29,3 @@ Use the button below to open my public repository.
   </a>
 </p>
 
-[https://github.com/kubapk/code-repository](https://github.com/kubapk/code-repository)
-
