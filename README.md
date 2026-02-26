@@ -21,6 +21,7 @@ I write most of my code in Spyder or in Visual Studio Code (VSC). In almost all 
 
 </p>
 <button name="button" onclick="http://www.google.com">Click me</button>
+[![My Website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge)](https://example.com)
 
 #### Have a look at my code repository [here](https://github.com/kubapk/code-repository)
 
